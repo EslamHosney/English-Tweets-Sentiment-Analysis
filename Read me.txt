@@ -1,0 +1,11 @@
+Our Team:
+Deep Features on Kaggle leader board.
+members:
+Eslam Samy Hosney
+Mohammed Mostafa Hassoubah
+Saad Elsayed
+
+Note:
+-glove.twitter.27B.200d will be needed for the final code to run
+-sumTraining.csv is a file that contains all training data.
+-twitter-2015+2013train a file contains training data from year 2015 2013
